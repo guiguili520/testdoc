@@ -1,5 +1,5 @@
 * 开始
-  * [快速开始](/)
+  * [快速开始](sidebar/)
   * [测试节点1](sidebar/2.md)
   * [测试节点2](sidebar/3.md)
 * API

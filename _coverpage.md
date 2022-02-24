@@ -9,4 +9,4 @@
 * 标题3：向生活低头
 
 [GitHub](https://github.com/xiaojingjing520/testdoc)
-[Get Started](#是siqh爱暗红色的)
+[Get Started](sidebar/)
